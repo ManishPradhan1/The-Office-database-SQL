@@ -16,3 +16,5 @@ A branch may handle a number of clients, with each client having a name and a un
 Employees can work with clients controlled by their branch to sell them stuff. If nescessary multiple employees can work with the same client. We’ll want to keep track of how many dollars worth of stuff each employee sells to each client they work with.
 
 Many branches will need to work with suppliers to buy inventory. For each supplier we’ll keep track of their name and the type of product they’re selling the branch. A single supplier may supply products to multiple branches.
+# Company ER Diagram
+![Compnay ER Diagram](https://github.com/ManishPradhan1/The-Office-database-SQL/assets/78529495/c975146b-159d-462a-ab51-34966014d1e0)
